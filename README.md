@@ -31,3 +31,13 @@ facebook open ```newwork``` tab XHR filter
 # Buidling the move plan APP
 
 ## first Ajax, google image
+
+
+
+## second api to new york Times
+handle error is very important
+
+## same origin policy and CORS header and JSONP
+
+
+Read some articles to trully understand JSON and JSONP
